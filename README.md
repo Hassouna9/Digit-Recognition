@@ -1,6 +1,6 @@
 # Numerical Digits Recognition
 
-Numerical Digits Recognition is a digit recognition project that aims to accurately recognize hand-drawn numerical digits. The purpose of this project is to provide a practical solution for optical character recognition, object detection, and other applications that require automatic digit recognition. The project utilizes machine learning algorithms to achieve high accuracy and robustness.
+Numerical Digits Recognition is a digit recognition project that aims to accurately recognize hand-drawn numerical digits. The purpose of this project is to provide a practical solution for optical character recognition, object detection, and other applications that require automatic digit recognition. By analyzing the accuracy results of the KNN algorithm using L1 and L2 distances, we can gain insights into the effectiveness of each metric and make informed decisions about the optimal choice for our digit recognition system. Next, we will present the results of our experiments, including the accuracy achieved by both L1 and L2 distances, as well as additional performance metrics such as runtime and recognition speed.
 
 ## Installation:
 1. Clone the repository: `git clone https://github.com/Hassouna9/Digit-Recognition`
